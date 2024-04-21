@@ -1,0 +1,31 @@
+.stVideo{
+    width: 500px;
+    height: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+.ea3mdgi5{
+    width: 300px;
+    height: 300px;
+}
+.e1f1d6gn2{
+    align-items: center;
+    /* background-color: aliceblue */
+    
+    width: 500px;
+
+}
+.e1nzilvr1{
+    font-size: 22px;
+}
+.boea3mdgi8dy{
+    background-color: red;   
+}
+.stVideo{
+    border: 5px solid rgb(4, 0, 75);
+    background-color: white ;
+    border-radius: 100px;
+}
